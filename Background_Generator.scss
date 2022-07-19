@@ -1,0 +1,45 @@
+body {
+    font: 20px "Railway";
+    color: peachpuff;
+    text-align: center;
+    letter-spacing: 20px;
+    text-transform: none;
+    top: 12px;
+    // background: linear-gradient(to right,  red 40%, purple 60% );
+    background: linear-gradient(to right, #07b8c5 40%, #6f73e2 60% );
+
+    h4 {
+        font-size: 60px;
+    }
+
+    #circle {
+        border: 2px white solid;
+        border-radius: 50%;
+        height: 250px;
+        width: 250px;
+        position: relative;
+        left: 544px;
+        background: linear-gradient(to right, #07b8c5 40%, #6f73e2 60% );
+    }
+
+    .input {
+        margin-top: 35px;
+    }
+
+    p {
+        letter-spacing: normal;
+    }
+
+    #p1 {
+        font-size: 23px;
+        position: relative;
+        bottom: 90px;
+    }
+
+    span {
+        // background-color: linear-gradient(to right, red, black);
+        position: relative;
+        bottom: 50px;
+    }
+}
+

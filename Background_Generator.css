@@ -1,0 +1,36 @@
+body {
+  font: 20px "Railway";
+  color: peachpuff;
+  text-align: center;
+  letter-spacing: 20px;
+  text-transform: none;
+  top: 12px;
+  background: linear-gradient(to right, #07b8c5 40%, #6f73e2 60%);
+}
+body h4 {
+  font-size: 60px;
+}
+body #circle {
+  border: 2px white solid;
+  border-radius: 50%;
+  height: 250px;
+  width: 250px;
+  position: relative;
+  left: 544px;
+  background: linear-gradient(to right, #07b8c5 40%, #6f73e2 60%);
+}
+body .input {
+  margin-top: 35px;
+}
+body p {
+  letter-spacing: normal;
+}
+body #p1 {
+  font-size: 23px;
+  position: relative;
+  bottom: 90px;
+}
+body span {
+  position: relative;
+  bottom: 50px;
+}/*# sourceMappingURL=Background_Generator.css.map */
